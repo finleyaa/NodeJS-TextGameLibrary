@@ -1,0 +1,1 @@
+exports.COMMANDS = {"move": ["move", "go", "walk"]};
