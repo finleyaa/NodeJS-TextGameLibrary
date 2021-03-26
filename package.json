@@ -12,6 +12,6 @@
         "start": "node server/server.js"
     },
     "keywords": [],
-    "author": "",
+    "author": "Finley Dabinett",
     "license": "ISC"
 }
